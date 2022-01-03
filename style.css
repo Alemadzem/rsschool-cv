@@ -1,0 +1,75 @@
+.body {
+  width: 800px;
+  margin: 0 auto;
+  font-family: "Poppins", sans-serif;
+}
+
+.cv-header {
+  font-size: 24px;
+  color: #f3f5f7;
+  font-weight: bold;
+  padding: 20px;
+  background: #f063b0;
+  text-align: center;
+  margin: 0;
+}
+
+.main-section {
+  font-family: "Poppins", sans-serif;
+  color: #f3f5f7;
+}
+
+.info-section {
+  margin-top: 20px;
+}
+
+.main-photo {
+  max-height: 180px;
+}
+
+.main-info-block {
+  flex-grow: 1;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.main-info-container {
+  display: flex;
+}
+
+.table-block {
+  margin: 0;
+  padding: 20px 40px;
+
+  line-height: 20px;
+  font-size: 16px;
+  background: #f374de;
+  color: white;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.footer-image-link {
+  display: block;
+  margin-right: 20px;
+}
+
+.footer-image-container {
+  display: flex;
+}
+
+.footer-image {
+  height: 50px;
+}
+
+.footer-image:last-child {
+  margin: 0;
+}
+
+.app-year {
+}
