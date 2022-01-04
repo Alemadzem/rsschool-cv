@@ -23,6 +23,10 @@
   margin-top: 20px;
 }
 
+.main-info-container {
+  display: flex;
+}
+
 .main-photo {
   max-height: 180px;
 }
@@ -32,10 +36,6 @@
   margin: 0;
   padding: 0;
   list-style-type: none;
-}
-
-.main-info-container {
-  display: flex;
 }
 
 .table-block {
@@ -69,7 +69,4 @@
 
 .footer-image:last-child {
   margin: 0;
-}
-
-.app-year {
 }
